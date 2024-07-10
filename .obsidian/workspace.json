@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "71fdfd99c504fae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb80c6651771f39f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58fd79a47270adb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "メイン.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d4f28eac89ae87f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84c37482a2b2449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d0632b21e90e94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "447ddbed9c360b25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b2ac6941e51e8d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f32b0ff0fe082b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "e876d9ed444b4b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab79e7c5f03b963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "メイン.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46c766775044e054",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "メイン.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74a9ef6f3897d744",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82abbe7f880f6690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "メイン.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "58fd79a47270adb0",
+  "lastOpenFiles": [
+    "テスト.md",
+    "メイン.md"
+  ]
+}
