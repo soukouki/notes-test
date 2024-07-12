@@ -17,7 +17,6 @@ jobs:
       - name: Build
         uses: konstfish/quartz-build-action@v1
         with:
-          page_title: "notes-test"
           quartz_config: "quartz.config.ts"
           quartz_layout: "quartz.layout.ts"
       - name: Upload artifact
