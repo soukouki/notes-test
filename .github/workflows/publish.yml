@@ -18,6 +18,8 @@ jobs:
         uses: konstfish/quartz-build-action@v1
         with:
           page_title: "notes-test"
+          quartz_config: "quartz.config.ts"
+          quartz_layout: "quartz.layout.ts"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:
