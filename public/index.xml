@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>テスト</title>
+    <link>https://quartz.jzhao.xyz/%E3%83%86%E3%82%B9%E3%83%88</link>
+    <guid>https://quartz.jzhao.xyz/%E3%83%86%E3%82%B9%E3%83%88</guid>
+    <description>テストのページだよ〜.</description>
+    <pubDate>Wed, 10 Jul 2024 09:14:36 GMT</pubDate>
+  </item><item>
+    <title>メイン</title>
+    <link>https://quartz.jzhao.xyz/%E3%83%A1%E3%82%A4%E3%83%B3</link>
+    <guid>https://quartz.jzhao.xyz/%E3%83%A1%E3%82%A4%E3%83%B3</guid>
+    <description>obsidian-ssgのテスト.</description>
+    <pubDate>Wed, 10 Jul 2024 09:14:29 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
