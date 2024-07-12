@@ -14,14 +14,8 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Checkout soukouki/quartz-build-action
-        uses: actions/checkout@v4
-        with:
-          repository: soukouki/quartz-build-action
-          ref: fix-processing-order
-          path: quartz-build-action
       - name: Build
-        uses: ./quartz-build-action
+        uses: soukouki/quartz-build-action@fix-processing-order
         with:
           quartz_config: quartz.config.ts
           quartz_layout: quartz.layout.ts
