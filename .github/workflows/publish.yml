@@ -14,9 +14,11 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Clone soukouki/quartz-build-action to quartz-build-action
-        run: |
-          git clone git@github.com:soukouki/quartz-build-action.git
+      - name: Checkout soukouki/quartz-build-action
+        uses: actions/checkout@v4
+        with:
+          repository: soukouki/quartz-build-action
+          path: quartz-build-action
       - name: Build
         uses: ./quartz-build-action
         with:
