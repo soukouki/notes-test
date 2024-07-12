@@ -23,10 +23,10 @@ jobs:
         with:
           path: content
 
-      - name: Checkout SSG repo
+      - name: Checkout Quartz repo
         uses: actions/checkout@v4
         with:
-          repository: https://github.com/jackyzha0/quartz.git
+          repository: jackyzha0/quartz
           path: quartz
 
       - name: Copy Settings
