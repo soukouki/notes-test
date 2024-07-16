@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "ja-JP",
     baseUrl: "soukouki.github.io/notes-test/",
-    ignorePatterns: [".obsidian", ".github", ".git"],
+    ignorePatterns: [".obsidian", ".github", ".git", "_site"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
