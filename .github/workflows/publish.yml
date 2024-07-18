@@ -12,6 +12,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: ls
+        run: |
+          ls -l
+          ls -l フォルダ
+      - name: Print Metadata
+        run: stat フォルダ/メイン.md
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build
