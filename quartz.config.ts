@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "goatcounter",
-      websiteID: "sou7",
+      websiteId: 'sou7',
     },
     locale: "ja-JP",
     baseUrl: "soukouki.github.io/notes-test/",
