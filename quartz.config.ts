@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteID: "sou7",
     },
     locale: "ja-JP",
     baseUrl: "soukouki.github.io/notes-test/",
