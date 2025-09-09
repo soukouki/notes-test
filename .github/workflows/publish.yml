@@ -23,7 +23,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build
-        uses: soukouki/quartz-build-action@fix-create-date
+        uses: soukouki/quartz-build-action@missing-link
         with:
           quartz_config: quartz.config.ts
           quartz_layout: quartz.layout.ts
